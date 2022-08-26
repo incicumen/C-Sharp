@@ -1,0 +1,10 @@
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.csproj.AssemblyReference.cache
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.Form1.resources
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.Properties.Resources.resources
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.csproj.GenerateResource.cache
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.csproj.CoreCompileInputs.cache
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\bin\Debug\HastKayit.exe.config
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\bin\Debug\HastKayit.exe
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\bin\Debug\HastKayit.pdb
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.exe
+C:\Users\incic\Desktop\HastaKAyıt\HastKayit\HastKayit\obj\Debug\HastKayit.pdb
